@@ -2,16 +2,16 @@
 
 ## Home
 
-![Home](./screenshot/home.png)
+![Home](./session_1/screenshot/home.png)
 
 ---
 
 ## About
 
-![About](./screenshot/about.png)
+![About](./session_1/screenshot/about.png)
 
 ---
 
 ## Contact
 
-![Contact](./screenshot/contact.png)
+![Contact](./session_1/screenshot/contact.png)
